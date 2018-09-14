@@ -1,0 +1,6 @@
+<templateSet group="test">
+  <template name="mtc" value="/**&#10;     * &#10;     *@description&#10;     $param$&#10;     * @return $return$&#10;     */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
