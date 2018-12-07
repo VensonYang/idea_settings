@@ -3,9 +3,9 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://127.0.0.1:9000" />
-          <token>df9edf9ddf9adfc9df9bdf98df9edf9fdf9edf9fdfcfdf93dfcfdf9fdf99df93df9ddfcfdf9edf9fdfcfdf92df9cdf93df92df93dfcedfc9dfc9dfcfdf92df9bdf99dfcedf9bdf99df9edf9adf9edfcf</token>
-          <option name="name" value="localhost" />
+          <option name="hostUrl" value="http://10.104.6.84:9000" />
+          <token>df93df9edfccdfcbdfc9df9cdfcbdf98dfcbdfcbdfcbdfcfdfc8df98df9bdfcbdfcbdf9adfc9dfccdfcfdf98df9bdf9cdf9cdf9ddf9edfcbdf92df9edfccdfc8dfc9dfccdfc9df9edfcedf9edf9ddfce</token>
+          <option name="name" value="dev" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
