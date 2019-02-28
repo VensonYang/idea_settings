@@ -3,4 +3,7 @@
     <variable name="VAR0" expression="" defaultValue="&quot;block&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="w" value="width: $END$;" description="width:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
