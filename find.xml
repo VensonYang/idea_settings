@@ -13,10 +13,10 @@
     <mask>*.properties</mask>
     <mask>*.*</mask>
     <mask>*.java,*.xml</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.js,*.html</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
     <mask>*.java</mask>
   </component>
 </application>
