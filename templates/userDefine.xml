@@ -1,5 +1,5 @@
 <templateSet group="userDefine">
-  <template name="*" value="&#10; * @author yangwenxuan/S9680&#10; * @since $date$&#10; * @param $param$&#10; * @return $return$&#10; */" description="method comment" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="a" value="/**&#10; * @author yangwenxuan/S9680&#10; * @since $date$&#10; * @param $param$&#10; * @return $return$&#10; */" description="method comment" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
