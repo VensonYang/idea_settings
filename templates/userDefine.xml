@@ -1,8 +1,8 @@
 <templateSet group="userDefine">
   <template name="a" value="**$param$&#10;* @return $return$&#10;* @author yangwenxuan/S9680&#10;* @since $date$&#10;*/" description="method comment" toReformat="false" toShortenFQNames="true">
-    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {if(params[i]!=''){result+='\\n* @param ' + params[i]}}; return result&quot;, methodParameters()) " defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
