@@ -7,7 +7,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="slg" value="private static final Logger logger = LoggerFactory.getLogger($className$.class);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="slg" value="private static final Logger log = LoggerFactory.getLogger($className$.class);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
