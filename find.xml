@@ -14,10 +14,10 @@
     <mask>*.java,*.xml</mask>
     <mask>*.js,*.html</mask>
     <mask>*.html</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
+    <mask>*.jsp</mask>
     <mask>*.java</mask>
   </component>
 </application>
