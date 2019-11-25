@@ -6,11 +6,10 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.*</mask>
     <mask>*.java,*.xml</mask>
     <mask>*.html</mask>
     <mask>*.js,*.html</mask>
@@ -20,5 +19,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
   </component>
 </application>
