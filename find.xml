@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.release" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -15,9 +15,9 @@
     <mask>*.*</mask>
     <mask>*.js,*.jsp</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.release</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
