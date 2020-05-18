@@ -17,8 +17,8 @@
     <mask>*.release</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.java</mask>
   </component>
 </application>
