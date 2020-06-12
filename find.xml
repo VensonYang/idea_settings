@@ -15,10 +15,10 @@
     <mask>*.release</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
