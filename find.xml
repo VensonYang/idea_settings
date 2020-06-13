@@ -14,9 +14,9 @@
     <mask>*.js,*.jsp</mask>
     <mask>*.release</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.*</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
