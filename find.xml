@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\xms\fpx-xms-operation [fpx-xms-operation-mailitem]'" />
-    <option name="defaultScopeName" value="Directory '...\xms\fpx-xms-operation [fpx-xms-operation-mailitem]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\xms\fpx-xms-operation [fpx-xms-operation-mailitem]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
