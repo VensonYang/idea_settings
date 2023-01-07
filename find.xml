@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\xms\fpx-xms-operation [fpx-xms-operation-mailitem]'" />
-    <option name="defaultScopeName" value="Directory '...\xms\fpx-xms-operation [fpx-xms-operation-mailitem]'" />
+    <option name="customScope" value="Project 'xms-operation'" />
+    <option name="defaultScopeName" value="Project 'xms-operation'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\xms\fpx-xms-operation [fpx-xms-operation-mailitem]'" />
+    <option name="SEARCH_SCOPE" value="Project 'xms-operation'" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
